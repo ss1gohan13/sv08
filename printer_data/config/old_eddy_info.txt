@@ -1,6 +1,9 @@
 #*# <---------------------- SAVE_CONFIG ---------------------->
 #*# DO NOT EDIT THIS BLOCK OR BELOW. The contents are auto-generated.
 #*#
+#*# [probe]
+#*# z_offset = 2.115
+#*#
 #*# [probe_eddy_current btt_eddy]
 #*# reg_drive_current = 16
 #*# calibrate =
